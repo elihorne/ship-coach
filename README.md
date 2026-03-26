@@ -44,3 +44,7 @@ The raw source for the skill is in the `skill/` directory if you want to browse 
 ## Philosophy
 
 Ship something real to real users. Everything else is rationalization. The goal is not a perfect product. The goal is learning whether anyone cares. You learn by shipping, not by planning.
+
+## License
+
+MIT
