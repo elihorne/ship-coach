@@ -1,10 +1,8 @@
-# a16z Wisdom
+# Product-Market Fit and Growth
 
-Distilled insights from Andreessen Horowitz, Ben Horowitz, and Marc Andreessen relevant to shipping SaaS products.
+Insights on finding fit, knowing when to launch, and making hard product decisions.
 
-## The Only Thing That Matters: Product-Market Fit
-
-From Marc Andreessen's guide to startups.
+## The only thing that matters: product-market fit
 
 **Core insight:** Product-market fit means being in a good market with a product that can satisfy that market. When you have it, you feel it. When you don't, you feel that too.
 
@@ -26,9 +24,7 @@ From Marc Andreessen's guide to startups.
 
 **Challenge phrase:** "Do you have PMF yet? If not, what will tell you when you do?"
 
-## Good Product Manager / Bad Product Manager
-
-From Ben Horowitz.
+## Good product management vs. bad product management
 
 **Good PM behaviors for shipping:**
 
@@ -50,7 +46,7 @@ From Ben Horowitz.
 
 **Challenge phrase:** "What outcome does this feature drive? How will you measure it?"
 
-## When to Launch
+## When to launch
 
 **Core insight:** Launch early, but not so early you can't learn. The bar is: can users do the core thing?
 
@@ -77,7 +73,7 @@ From Ben Horowitz.
 
 **Challenge phrase:** "Can a user accomplish the main job? Yes? Then launch."
 
-## Software is Eating the World
+## Speed wins
 
 **Core insight:** Every company is becoming a software company. The opportunity is enormous. Move fast.
 
@@ -92,9 +88,9 @@ From Ben Horowitz.
 
 **Challenge phrase:** "Who else is building this? How fast are they moving?"
 
-## On Pivots
+## On pivots
 
-From Ben Horowitz on hard decisions.
+**Core insight:** Pivoting is a tool, not a failure. But it requires real signal, not frustration.
 
 **When to pivot:**
 
@@ -121,7 +117,7 @@ From Ben Horowitz on hard decisions.
 
 **Challenge phrase:** "Is this a real signal or temporary frustration? What data do you have?"
 
-## The Hard Thing About Hard Things
+## Doing hard things
 
 **Core insight:** Startups are hard. The right answer often sucks. Do the hard thing anyway.
 
@@ -136,7 +132,7 @@ From Ben Horowitz on hard decisions.
 
 **Challenge phrase:** "You already know the answer. What's stopping you?"
 
-## On Hiring and Team
+## On hiring and team size
 
 Relevant to shipping: small teams ship faster.
 

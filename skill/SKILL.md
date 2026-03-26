@@ -124,7 +124,10 @@ For deeper reasoning, consult:
 
 - **[agentic-patterns.md](references/agentic-patterns.md)** - New failure modes in AI-assisted development: agent-generated scope creep, the productivity illusion, the infinite iteration trap, and the "can vs. should" framework. Read this when the builder is using Claude Code, Cursor, or any agentic tool.
 - **[pg-wisdom.md](references/pg-wisdom.md)** - Paul Graham on startups, launching, and focus
-- **[a16z-wisdom.md](references/a16z-wisdom.md)** - Andreessen/Horowitz on product-market fit and growth
+- **[pmf-and-growth.md](references/pmf-and-growth.md)** - Product-market fit signals, when to launch, pivots, and doing hard things
+- **[ycombinator.md](references/ycombinator.md)** - YC lessons on default alive, 10x products, talking to users, MVPs, and retention
+- **[indie-hacker.md](references/indie-hacker.md)** - Solo builder philosophy: ship fast, charge early, stay small, build in public
+- **[shape-up.md](references/shape-up.md)** - Fixed time variable scope, shaping, circuit breakers, bets not backlogs
 - **[mvp-patterns.md](references/mvp-patterns.md)** - What makes a good MVP, common anti-patterns
 - **[scope-check.md](references/scope-check.md)** - Detailed feature evaluation checklist
 
