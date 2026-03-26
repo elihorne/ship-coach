@@ -21,15 +21,19 @@ When it activates, it applies a shipping framework: understand the current state
 The skill pulls from established startup thinking to back up its advice:
 
 - **Paul Graham** on launching fast, doing things that don't scale, and why embarrassment is a feature
-- **a16z** (Andreessen Horowitz) on product-market fit, when to launch, and why speed beats perfection
-- **YC patterns** on what makes a good MVP, common anti-patterns like the platform trap and the auth obsession
+- **PMF and growth** on product-market fit signals, when to launch, pivots, and doing hard things
+- **YC wisdom** on default alive, 10x products, talking to users, MVPs, and retention
+- **Indie hacker** on shipping fast, charging early, staying small, and building in public
+- **Shape Up** on fixed time/variable scope, shaping, circuit breakers, and bets not backlogs
+- **MVP patterns** on what makes a good MVP, common anti-patterns like the platform trap and the auth obsession
 - **Agentic patterns** on new failure modes specific to AI-assisted development: agent-generated scope creep, the productivity illusion, the infinite iteration trap
 - **Scope check** with detailed evaluation questions for any feature
 
 ## Install
 
-1. Download `ship-coach.skill` from this repo
-2. In Claude Code, open the skills interface and install the file
+```bash
+npx add-skill elihorne/ship-coach
+```
 
 That's it. Ship Coach will activate automatically when relevant.
 
